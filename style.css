@@ -1,6 +1,45 @@
-#T1{
-    float:right;
+
+
+body{
+    
+    width:55%; 
+    margin: 0 auto 0 auto;
+    font-family: 'Source Sans Pro', sans-serif;
+    background-image: url(Ufclol.jpg), url(yeet3.jpg) , url(Ufclol.jpg);
+    background-size: 20%, 60%, 20%;
+    background-repeat: repeat-y, repeat-y, repeat-y;
+    background-position: top left, top, top right;
+    font-size: 123%;
+    
 }
-#T2{
-    float:right;
+
+img{
+    float: right; 
+    margin-left: 10px;
+   
+}
+
+P {
+    color:  #666666;
+    font-weight: bold;
+}
+
+H2,H3,H4 {
+
+    color: red;
+    font-weight: bolder;
+    
+}
+
+H1{
+    color: red;
+    font-weight: bolder;
+    float: top;
+
+}
+
+#tony{ 
+    width: 50%;
+    height: 50%;
+    float: left;
 }
