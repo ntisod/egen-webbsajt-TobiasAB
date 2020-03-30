@@ -10,17 +10,18 @@ body{
     background-repeat: repeat-y, repeat-y, repeat-y;
     background-position: top left, top, top right;
     font-size: 123%;
+    color:  #666666;
     
 }
 
 img{
     float: right; 
-    margin-left: 10px;
+    margin-left: 5px;
    
 }
 
 P {
-    color:  #666666;
+    
     font-weight: bold;
 }
 
@@ -39,7 +40,9 @@ H1{
 }
 
 #tony{ 
-    width: 50%;
-    height: 50%;
+    
+    width: 400px;
+    height: 400px;
     float: left;
 }
+nav
