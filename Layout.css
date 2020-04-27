@@ -1,0 +1,8 @@
+button{
+    background-color: black;
+    border: black;
+    float: right;
+    color: white; 
+    cursor: pointer;
+    text-align: center; 
+ }
