@@ -1,0 +1,22 @@
+body{
+    background-color: #ffa107;
+}
+
+.header {
+    padding: 5px;
+    text-align: left;
+    background: black;
+    color: #ffa109;
+    font-size: 50px;
+    width: 100%;
+    margin-top: -20px;
+  }
+
+  #text{
+      font-size: 30px;
+      color: black;
+  }
+
+  #muay{
+      width: 40%;
+  }
